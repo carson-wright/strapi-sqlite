@@ -1,0 +1,41 @@
+{
+  "collectionName": "components_page_components_masonry_image_grids",
+  "info": {
+    "displayName": "Masonry Image Grid",
+    "icon": "dice-four"
+  },
+  "options": {},
+  "attributes": {
+    "TopLeftImage": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false,
+      "required": true
+    },
+    "TopRightImage": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false,
+      "required": true
+    },
+    "BottomLeftImage": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": true,
+      "required": true
+    },
+    "BottomRightImage": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

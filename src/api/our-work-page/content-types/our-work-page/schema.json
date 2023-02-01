@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "our_work_pages",
+  "info": {
+    "singularName": "our-work-page",
+    "pluralName": "our-work-pages",
+    "displayName": "Our Work Page"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Temp": {
+      "type": "string"
+    }
+  }
+}

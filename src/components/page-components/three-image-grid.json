@@ -1,0 +1,35 @@
+{
+  "collectionName": "components_page_components_three_image_grids",
+  "info": {
+    "displayName": "Three Image Grid",
+    "icon": "dice-three",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "LargeImage": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "SmallTopImage": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "SmallBottomImage": {
+      "type": "media",
+      "multiple": false,
+      "required": true,
+      "allowedTypes": [
+        "images"
+      ]
+    }
+  }
+}
